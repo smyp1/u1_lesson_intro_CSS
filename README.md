@@ -6,6 +6,12 @@
 
 So far we've learned how to set up and structure a HTML file. Now we'll make it look pretty! This an introductory lesson to CSS. We'll touch on very basic topics ranging from positioning to coloring!
 
+CSS is how webpages are styled. Period. If you've seen something on the web, CSS is how it has been styled. Which means the sky is the limit with it, and there are countless ways to work with this fascinating language. We are going to start off simple - if you are a complete beginner don't get too overwhelmed by its potential. And if you have some experience, you probably know, there is always something new to challenge yourself with.  As we continue on with our lessons, labs, assignments, and projects, make a note of how much you are progressing, and how much you have learned each week!
+
+You will not be the Da Vinci of CSS by the end of this lesson. But 12 weeks from now, when you are presenting your capstone project, you will be amazed at how much you are able to do and how much you have learned.
+
+
+
 ## Objectives
 
 - Learn how to link stylesheets
@@ -123,14 +129,25 @@ nav {
   padding: 10px 0;
 }
 ```
+That color code is known as a "Hexidecimal" system, with 16 different characters (0-9, A-F) that we can use. The first 2 digits control the level of Red, the second 2 are for our Green values, and the last 2 control the Blue levels.  #000000 is the lowest value possibe - Black, while #FFFFFF is everything set to max - White. #FF0000 would be a strong Red, #0000FF would be a deep Blue
 
-Notice the syntax for padding, this is shorthand for applying padding on an element. Padding, margin and a few other properties follow the convention of applying styles in a clockwise direction. For example:
+We also can use RGB values, which go between 0-255. RGB(0, 0, 0) will be Black, RGB(255, 255, 255) would be White, (255, 0, 0) will be Red. 
+What color do we think (200, 0, 200) would resemble?
+
+Additionally, we have the ability to use RGBA, using the "Alpha" value to set the opacity of our element. This value goes between 0 and 1, with 0 being fully transparent, and 1 being fully opaque. (255, 255, 255, 1) would be a strong, opaque White, while (255, 255, 255, .2) would be mostly transparent.
+
+CSS has somewhere around 85 colors that can be called on by name, ranging from the common ("Blue", "Red", "Green"), to a bit more far-out ("Lemonchiffon", "Dodgerblue", "Azure"). Some colors you may be familiar with ("Cerulean") can not be used, and you will need to use RGB or Hexidecimal to get something resembling those specific colors. 
+
+Now that we've discussed the code used for colors, notice the syntax for padding, this is shorthand for applying padding on an element. Padding, margin and a few other properties follow the convention of applying styles in a clockwise direction. For example:
+
 
 ```css
 element {
   padding: 1px 2px 2px 1px;
 }
 ```
+
+
 
 This will apply padding from top, right, bottom, left.
 
@@ -179,6 +196,9 @@ Keep in mind, class styling properties can be shared with multiple elements with
 ## Recap
 
 In this lesson we touched on the basics of CSS. We linked our stylesheet and implemented some styling to our HTML.
+
+
+There are easily hundreds of different functions we can do with our CSS. Some, like Keyframe Animations or Filters, are relatively new, and are new properties being developed all of the time. Like our HTML elements and Terminal commands, we do **not** expect you to memorize and fully understand every single one of these by the end of today, but as we continue on in this class, we want you to take note of which commands you are using the most, which ones you find the most interesting, and any new ones you find interesting and want to show off. 
 
 ## Resources
 
