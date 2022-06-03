@@ -129,7 +129,7 @@ nav {
   padding: 10px 0;
 }
 ```
-That color code is known as a "Hexidecimal" system, with 16 different characters (0-9, A-F) that we can use. The first 2 digits control the level of Red, the second 2 are for our Green values, and the last 2 control the Blue levels.  #000000 is the lowest value possibe - Black, while #FFFFFF is everything set to max - White. #FF0000 would be a strong Red, #0000FF would be a deep Blue
+That color code is written in what is known as the "Hexidecimal" system, with 16 different characters (0-9, A-F) that we can use. The first 2 digits control the level of Red, the second 2 are for our Green values, and the last 2 control the Blue levels.  #000000 is the lowest value possibe - Black, while #FFFFFF is everything set to max - White. #FF0000 would be a strong Red, #0000FF would be a deep Blue
 
 We also can use RGB values, which go between 0-255. RGB(0, 0, 0) will be Black, RGB(255, 255, 255) would be White, (255, 0, 0) will be Red. 
 What color do we think (200, 0, 200) would resemble?
