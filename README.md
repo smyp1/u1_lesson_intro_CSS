@@ -4,11 +4,11 @@
 
 ## Overview
 
-So far we've learned how to set up and structure a HTML file. Now we'll make it look pretty! This an introductory lesson to CSS. We'll touch on very basic topics ranging from positioning to coloring!
+So far we've learned how to set up and structure a HTML file. Now we'll make it look pretty! This an introductory lesson to CSS. We'll touch on very basic topics ranging from positioning to coloring. 
 
 CSS is how webpages are styled. Period. If you've seen something on the web, CSS is how it has been styled. Which means the sky is the limit with it, and there are countless ways to work with this fascinating language. We are going to start off simple - if you are a complete beginner don't get too overwhelmed by its potential. And if you have some experience, you probably know, there is always something new to challenge yourself with.  As we continue on with our lessons, labs, assignments, and projects, make a note of how much you are progressing, and how much you have learned each week!
 
-You will not be the Da Vinci of CSS by the end of this lesson. But 12 weeks from now, when you are presenting your capstone project, you will be amazed at how much you are able to do and how much you have learned.
+You will not be the DaVinci of CSS by the end of this lesson. But 12 weeks from now, when you are presenting your capstone project, you will be amazed at how much you are able to do and how much you have learned.
 
 
 
